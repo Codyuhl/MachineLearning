@@ -1,4 +1,4 @@
-# DASC 41103 — Machine Learning & Data Science Projects
+# Machine Learning Portfolio Projects
 
 Course: DASC 41103
 Team: Group 5
